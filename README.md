@@ -1,17 +1,51 @@
-# Evaluación final Módulo 1 - Elena Alcaraz Martín
+# ANONYMOUS PROXY Co. Landing Page
 
-Este es el repositorio creado para la **evaluación final del Módulo 1**. 
+Bienvenido al repositorio de la landing page de Amonymous Proxy Co., una empresa ficticia creada para mostrar un ejemplo de diseño y desarrollo web.
 
-Se ha trabajado a partir del template facilitado por Adalab, y organizado a través de partials de html y scss. 
+## Descripción
 
-Dentro del código, caben destacar varios puntos: 
+Este proyecto es una landing page desarrollada utilizando únicamente HTML y SCSS. Está diseñada para presentar los servicios y la misión de Anonymous Proxy Co., una empresa ficticia dedicada a brindar soluciones innovadoras a sus clientes.
 
-- Se han utilizado dos tipos de fuente, que aunque las dos pertenecían a la familia **Roboto**, una de ellas pertenecía a una familia dentro de ésta y se distinguía fácilmente en los titles, **Roboto Slab**. En los textos, para poder utilizar los distintos font-weight, se utiliza la fuente Roboto proporcionada por Google Fonts, ya que la que viene por defecto en el template no respondía a los distintos font-weight. 
+## Características
 
-- Las partes han sido maquetadas tal y como se indicaba en el enunciado: flexbox para Header y footer, grid para la tercera sección, y en este caso, se ha utilizado block para la segunda sección. 
+- Diseño limpio y moderno
+- Sección de servicios
+- Sección de contacto
+- Información sobre la empresa
 
-- En el icono del footer, que te lleva al inicio de la página, se ha utilizado un transition transform para hacer la experiencia de usuario más interesante. 
+## Estructura del Proyecto
 
-- En el texto de la Licencia, localizada en el footer, se ha hecho uso de un icono proporcionado por **Font Awesome**. 
+- `index.html`: El archivo principal de la landing page.
+- `scss/`: Carpeta que contiene los archivos de estilos CSS.
+- `images/`: Carpeta que contiene las imágenes utilizadas en la página.
+- `README.md`: Archivo de documentación del proyecto.
 
-Todo ello trabajado a partir del diseño de Zeplin, intentando hacerlo lo más parecido posible siguiendo las indicaciones del enunciado. 
+## Instalación
+
+Para visualizar la landing page en tu navegador localmente, sigue estos pasos:
+
+1. Clona el repositorio:
+    ```bash
+    git clone https://github.com/tu-usuario/ficticia-co-landing-page.git
+    ```
+2. Navega al directorio del proyecto:
+    ```bash
+    cd ficticia-co-landing-page
+    ```
+3. Abre el archivo `index.html` en tu navegador preferido.
+
+## Uso
+
+Explora la landing page para ver el diseño y la estructura de Anonymous Proxy Co. Puedes utilizar este proyecto como base para desarrollar tus propias landing pages.
+
+## Contribuciones
+
+Este proyecto es un ejemplo y no está abierto a contribuciones. Si tienes sugerencias o comentarios, no dudes en contactarme.
+
+## Licencia
+
+Este proyecto no tiene licencia específica y está destinado únicamente para propósitos educativos y de demostración.
+
+---
+
+*Nota: Anonymous Proxy Co. es una empresa ficticia creada únicamente con fines demostrativos.*
